@@ -1,1 +1,2 @@
-Teaching git tool.
+Teaching git commands.
+It's time to sleep.
